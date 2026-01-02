@@ -544,7 +544,7 @@
                     <control type="toggle"/>
                     <dependencies>
                         <dependency type="enable">
-                            <condition on="property" name="infobool">System.HasAddon(plugin.video.themoviedb.helper)</condition>
+                            <condition on="property" name="infobool">System.HasAddon(plugin.video.tmdb.bingie.helper)</condition>
                         </dependency>
                     </dependencies>
                 </setting>
@@ -614,19 +614,6 @@
                 <setting id="startDelay" type="integer" label="30702" help="">
                     <level>0</level>
                     <default>5</default>
-                    <constraints>
-                        <minimum>1</minimum>
-                        <step>1</step>
-                        <maximum>10</maximum>
-                    </constraints>
-                    <control type="slider" format="integer">
-                        <popup>false</popup>
-                        <formatlabel>14045</formatlabel>
-                    </control>
-                </setting>
-                <setting id="eventDelay" type="integer" label="30718" help="">
-                    <level>0</level>
-                    <default>1</default>
                     <constraints>
                         <minimum>1</minimum>
                         <step>1</step>
