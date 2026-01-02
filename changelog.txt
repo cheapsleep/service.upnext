@@ -1,4 +1,7 @@
 ## Releases
+### v2.0.31+dev.0 (2026-01-02)
+- Removed support for TMDb Helper, and added support for TMDb Bingie Helper
+
 ### v2.0.30+dev.0 (2024-10-24)
 - Ensure settings are reloaded for plugin invocations when settings change
 - Improve UpNext tvshow/episode widget
