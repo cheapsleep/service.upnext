@@ -5,7 +5,7 @@
 [![Contributors](https://img.shields.io/github/contributors/MoojMidge/service.upnext.svg)](https://github.com/MoojMidge/service.upnext/graphs/contributors)
 
 Personal fork of service.upnext (commits are often untested and cause addon to break) that implements:
-- *NEW* Seamlessly integrates with TMDb Bingie Helper (For Bingie Skin support)
+- **NEW** Seamlessly integrates with TMDb Bingie Helper (For Bingie Skin support)
 - Automatic end credits detection
 - Provides UpNext video listings for use as "UpNext ..." episode and movie widgets
 - Provides "More like this..." and "Watched Movie/TVShow recommendations" video listings for use as widgets
