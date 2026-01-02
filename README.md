@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/MoojMidge/service.upnext.svg)](https://github.com/MoojMidge/service.upnext/releases)
+[![GitHub release](https://img.shields.io/github/release/cheapsleep/service.upnext.svg)](https://github.com/cheapsleep/service.upnext/releases)
 [![CI](https://github.com/MoojMidge/service.upnext/workflows/CI/badge.svg)](https://github.com/MoojMidge/service.upnext/actions?query=workflow:CI)
 [![Codecov status](https://img.shields.io/codecov/c/github/MoojMidge/service.upnext/master)](https://codecov.io/gh/MoojMidge/service.upnext/branch/master)
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv2-yellow.svg)](https://opensource.org/licenses/GPL-2.0)
